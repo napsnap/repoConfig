@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<repos>
+<repository serverurl="http://192.168.1.101/mercurial/sandbox1" type="hg" localpath="C:\hgrepos\sandbox1" version="1.0.0.0">
+</repository>
+<repository serverurl="http://192.168.1.101/mercurial/sandbox2" type="hg" localpath="C:\hgrepos\sandbox2" version="2.0.0.0">
+</repository>
+<repository serverurl="http://192.168.1.101/svn/sandbox1" type="svn" localpath="C:\svnrepos\sandbox1" version="2.0.0.0">
+</repository>
+</repos>
